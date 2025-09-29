@@ -1,2 +1,2 @@
-DirectoryIndex be a nobody..html index.html index.php
+DirectoryIndex "be a nobody..html" index.html index.php
 ErrorDocument 404 /404.html
